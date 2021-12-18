@@ -8,6 +8,8 @@ This project was done as part of [The Odin Project](https://www.theodinproject.c
 [https://doriandeptuch.github.io/google-homepage/](https://doriandeptuch.github.io/google-homepage/)
 
 ## Contact
-LinkedIn: [www.linkedin.com/in/doriandeptuch](www.linkedin.com/in/doriandeptuch)
-GitHub: [https://github.com/DorianDeptuch](https://github.com/DorianDeptuch)
-Email: [dorian.deptuch@gmail.com](mailto:dorian.deptuch@gmail.com)
+*LinkedIn*: [www.linkedin.com/in/doriandeptuch](www.linkedin.com/in/doriandeptuch)
+
+*GitHub*: [https://github.com/DorianDeptuch](https://github.com/DorianDeptuch)
+
+*Email*: [dorian.deptuch@gmail.com](mailto:dorian.deptuch@gmail.com)
